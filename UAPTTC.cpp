@@ -4,6 +4,12 @@
 
 using namespace std;
 
+/* 	Anggota Kelompok :
+	1. Alfa Rizki Fadlillah (2117051003)
+	2. Az Zahra Adellia (2117051034)
+	3. Tasya Azzahra Putri (2117051043)
+*/
+
 char kotak[10]={'o','1','2','3','4','5','6','7','8','9'};
 void box(){
 		for(int i=1;i<=25;i++){//atas
