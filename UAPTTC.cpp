@@ -211,6 +211,7 @@ int main(){
 	cout<<"1. Main lagi\n2. Keluar\nMasukkan nomor(1/2) : ";
 	cin>>pilih;
 	if(pilih==1){
+		system("cls");
 		main();
 	}else{
 		system("cls");
